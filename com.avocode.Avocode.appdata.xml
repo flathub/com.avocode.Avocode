@@ -15,16 +15,16 @@
     <url type="homepage">https://avocode.com/</url>
     <screenshots>
         <screenshot type="default">
-            <image>https://avocode.com/static/images/homepage/product/inspect/interactive/measure.png</image>
+            <image>https://raw.githubusercontent.com/alexeymikha1lov/com.avocode.Avocode/master/screenshots/avocode_main.png</image>
         </screenshot>
         <screenshot>
-            <image>https://avocode.com/static/images/homepage/product/inspect/interactive/code.png</image>
+            <image>https://raw.githubusercontent.com/alexeymikha1lov/com.avocode.Avocode/master/screenshots/avocode_1.png</image>
         </screenshot>
         <screenshot>
-            <image>https://avocode.com/static/images/homepage/product/inspect/interactive/styles.png</image>
+            <image>https://raw.githubusercontent.com/alexeymikha1lov/com.avocode.Avocode/master/screenshots/avocode_2.png</image>
         </screenshot>
         <screenshot>
-            <image>https://avocode.com/static/images/homepage/product/inspect/interactive/export.png</image>
+            <image>https://raw.githubusercontent.com/alexeymikha1lov/com.avocode.Avocode/master/screenshots/avocode_3.png</image>
         </screenshot>
     </screenshots>
     <content_rating type="oars-1.1">
@@ -32,6 +32,6 @@
         <content_attribute id="money-purchasing">mild</content_attribute>
     </content_rating>
     <releases>
-        <release version="4.0.1" date="2019-11-18" />
+        <release version="4.0.1" date="2019-11-20" />
     </releases>
 </component>
