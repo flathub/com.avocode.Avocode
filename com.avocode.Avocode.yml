@@ -1,9 +1,9 @@
 id: com.avocode.Avocode
 sdk: org.freedesktop.Sdk
 runtime: org.freedesktop.Platform
-runtime-version: "19.08"
+runtime-version: '19.08'
 base: org.electronjs.Electron2.BaseApp
-base-version: "19.08"
+base-version: '19.08'
 finish-args:
   - --share=ipc
   - --socket=x11
@@ -14,8 +14,8 @@ finish-args:
   - --filesystem=home
 command: avocode
 cleanup:
-  - "*.a"
-  - "*.la"
+  - '*.a'
+  - '*.la'
   - /include
   - /lib/pkgconfig
   - /share/man
@@ -34,14 +34,14 @@ modules:
       - type: extra-data
         filename: avocode.deb
         only-arches:
-          - "x86_64"
-        url: "https://linux.avocode.com/apt/pool/main/a/avocode/avocode_4.0.1-7571_amd64.deb"
-        sha256: 46e05454953ab4afebf47be1a5028bc221da3d097519ddf6a009479b4c82d1e0
-        size: 75311598
+          - x86_64
+        url: https://linux.avocode.com/apt/pool/main/a/avocode/avocode_4.1.0-7702_amd64.deb
+        sha256: ba102ece386326078a4f89fc130763d65e430742bc3ad25c91d765f2d5322215
+        size: 75764724
         x-checker-data:
           type: debian-repo
           package-name: avocode
-          root: "https://linux.avocode.com/apt"
+          root: https://linux.avocode.com/apt
           dist: all
           component: main
 
