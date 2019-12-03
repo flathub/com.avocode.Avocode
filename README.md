@@ -20,7 +20,6 @@ $ flatpak run com.avocode.Avocode
 [Avocode, Inc.](https://avocode.com/ "Avocode, Inc.")
 ### Flathub maintainers:
 * Alexey Mikhailov [github](https://github.com/amikha1lov "amikha1lov")
-* gasinvein [github](https://github.com/gasinvein "gasinvein")
 
 
 License
