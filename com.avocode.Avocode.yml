@@ -49,7 +49,7 @@ modules:
         dest-filename: avocode.sh
         commands:
           - export TMPDIR="$XDG_RUNTIME_DIR/app/$FLATPAK_ID"
-          - exec zypak-wrapper /app/extra/avocode "$@"
+          - exec zypak-wrapper /app/extra/avocode/avocode "$@"
 
       - type: file
         path: apply_extra.sh
