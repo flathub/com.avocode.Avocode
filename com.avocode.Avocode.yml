@@ -48,8 +48,8 @@ modules:
       - type: script
         dest-filename: avocode.sh
         commands:
-          - cd /app/extra/avocode
-          - exec ./avocode --no-sandbox "$@"
+          - export TMPDIR="$XDG_RUNTIME_DIR/app/$FLATPAK_ID"
+          - exec zypak-wrapper /app/extra/avocode/avocode "$@"
 
       - type: file
         path: apply_extra.sh
