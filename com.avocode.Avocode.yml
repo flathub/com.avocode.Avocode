@@ -35,9 +35,9 @@ modules:
         filename: avocode.deb
         only-arches:
           - x86_64
-        url: https://linux.avocode.com/apt/pool/main/a/avocode/avocode_4.4.6-8254_amd64.deb
-        sha256: 9573360d2c5b8892c8f33544743abda8a43dc7af208c84574de5bdcb929278e1
-        size: 67964478
+        url: https://linux.avocode.com/apt/pool/main/a/avocode/avocode_4.6.0-8403_amd64.deb
+        sha256: 586b84deb1b37d659c7de1f1d64530621f585f930feb86235e3df670801e9ff3
+        size: 69893060
         x-checker-data:
           type: debian-repo
           package-name: avocode
