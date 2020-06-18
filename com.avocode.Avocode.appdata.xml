@@ -32,6 +32,7 @@
         <content_attribute id="money-purchasing">mild</content_attribute>
     </content_rating>
     <releases>
+        <release version="4.7.1-8618" date="2020-06-18"/>
         <release version="4.7.0-8573" date="2020-06-11">
             <description>
                 <p>New features:</p>
