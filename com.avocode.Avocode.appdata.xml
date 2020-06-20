@@ -32,7 +32,20 @@
         <content_attribute id="money-purchasing">mild</content_attribute>
     </content_rating>
     <releases>
-        <release version="4.7.1-8618" date="2020-06-18"/>
+        <release version="4.7.1-8618" date="2020-06-18">
+        <description>
+                <p>Improvements:</p>
+                    <ul>
+                        <li>Electron 9:We’ve updated the underlying framework behind our desktop app to Electron 9 to improve the stability, speed, and general performance.</li>
+                        <li>Sketch plugin:We’ve modified the behavior of our Sketch plugin so it will no longer close the design in Sketch after syncing it to Avocode. This change does not affect our version tracking tool and the functionality of the Edit in Sketch button in the Avocode app.</li>
+                    </ul>
+                    <p>Bug Fixes:</p>
+                    <ul>
+                        <li>We’ve fixed various UX inconsistencies in our version tracking tool.</li>
+                        <li>We’ve fixed the error that appeared in the desktop app Help menu.</li>
+                    </ul>
+            </description>
+            </release>
         <release version="4.7.0-8573" date="2020-06-11">
             <description>
                 <p>New features:</p>
