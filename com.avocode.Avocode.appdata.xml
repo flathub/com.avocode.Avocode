@@ -32,7 +32,16 @@
         <content_attribute id="money-purchasing">mild</content_attribute>
     </content_rating>
     <releases>
-        <release version="4.7.2-8644" date="2020-06-24"/>
+ <release version="4.7.3-8665" date="2020-06-30">
+            <description>
+                <p>Bug Fixes:</p>
+                    <ul>
+                        <li>We’ve fixed the banner displaying the number of days left in a free trial to show the correct countdown.</li>
+                        <li>We’ve fixed the issue that caused incorrect top banner behavior when drag-and-dropping a design file.</li>
+                    </ul>
+            </description>
+        </release>
+
         <release version="4.7.1-8618" date="2020-06-18">
         <description>
                 <p>Improvements:</p>
