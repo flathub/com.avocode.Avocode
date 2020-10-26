@@ -32,6 +32,21 @@
         <content_attribute id="money-purchasing">mild</content_attribute>
     </content_rating>
     <releases>
+
+
+ <release version="4.10.0-8834" date="2020-10-08">
+                <description>
+                <p>Improvements::</p>
+                    <ul>
+                        <li>We have launched a private beta testing of the new Comment tool.</li>
+                         <li>We’ve improved the loading and response performance of the new Avocode tools (Write and Flow).</li>
+                         <li>We have polished the UI design of the new Avocode tools (Write and Flow).</li>
+                    </ul>
+               
+            </description>
+     </release>        
+        
+
 <release version="4.8.1-8711" date="2020-07-29">
                 <description>
                     <p>Improvements:</p>
