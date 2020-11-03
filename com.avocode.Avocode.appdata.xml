@@ -34,6 +34,18 @@
     <releases>
 
 
+/>
+ <release version="4.10.1-8859" date="2020-10-29">
+                <description>
+                <p>Improvements::</p>
+                    <ul>
+                        <li>We’ve improved the performance of the app and the speed of tools in Avocode.</li>
+                         
+                    </ul>
+               
+            </description>
+     </release>      
+
  <release version="4.10.0-8834" date="2020-10-08">
                 <description>
                 <p>Improvements::</p>
