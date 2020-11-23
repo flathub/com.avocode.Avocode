@@ -34,7 +34,11 @@
     <releases>
 
 
-/>
+/&gt;
+ <release version="4.10.2-8893" date="2020-11-23"/>
+
+
+
  <release version="4.10.1-8859" date="2020-10-29">
                 <description>
                 <p>Improvements::</p>
