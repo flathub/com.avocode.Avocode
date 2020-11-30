@@ -35,8 +35,17 @@
 
 
 /&gt;
- <release version="4.10.3-8900" date="2020-11-24"/>
 
+ <release version="4.10.3-8900" date="2020-11-24">
+                <description>
+                <p>Bug Fixes:</p>
+                    <ul>
+                        <li>WWe fixed the bug in the app email notification settings that showed notification preferences for project subfolders. App email notifications are project-based and cannot be set for individual subfolders.</li>
+                         
+                    </ul>
+               
+            </description>
+     </release>    
 
 
  <release version="4.10.1-8859" date="2020-10-29">
