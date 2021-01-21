@@ -42,7 +42,7 @@
                 <description>
                 <p>Improvements:</p>
                     <ul>
-                        <li>We unified the settings menu in Avocode and moved the "Billing & Payments" section to your user dropdown menu.</li>
+                        <li>We unified the settings menu in Avocode and moved the "Billing and Payments" section to your user dropdown menu.</li>
                         <li>We unified the tools panel in Avocode and added the icon for the Pixel Checker tool.</li>
                         <li>We added an extra layer of security to your projects in Avocode to prevent their accidental deletion. Now, to delete a project, you will need to type in its name to confirm this action.</li>
                         <li>You can now see the name of your open design in Avocode Tools and easily navigate around multiple Avocode tabs.</li>
