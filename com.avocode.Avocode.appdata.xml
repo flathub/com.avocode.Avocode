@@ -36,9 +36,25 @@
 
 /&gt;
 
- <release version="4.11.0-8956" date="2020-12-15"/>
 
 
+ <release version="4.11.0-8956" date="2020-12-15">
+                <description>
+                <p>Improvements:</p>
+                    <ul>
+                        <li>We unified the settings menu in Avocode and moved the "Billing & Payments" section to your user dropdown menu.</li>
+                        <li>We unified the tools panel in Avocode and added the icon for the Pixel Checker tool.</li>
+                        <li>We added an extra layer of security to your projects in Avocode to prevent their accidental deletion. Now, to delete a project, you will need to type in its name to confirm this action.</li>
+                        <li>You can now see the name of your open design in Avocode Tools and easily navigate around multiple Avocode tabs.</li>
+                        <li>We decided to discontinue the support of the experimental redesign of Avocode’s file management. Instead, we will be focusing on improving the default UI.</li>
+                        <li>You can now open your projects, designs, and artboards in a new Avocode tab with the mouse-wheel-click or cmd/ctrl+double-click shortcut.</li>
+                    </ul>
+                    <p>New features: Custom Avatars</p>
+                    <ul>
+                        <li>You can now go to your profile settings and upload your own image or select one from our gallery of cute Avocode avatars.</li>
+                    </ul>
+            </description>
+     </release>    
 
 
  <release version="4.10.4-8916" date="2020-11-30">
