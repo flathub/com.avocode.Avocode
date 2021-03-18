@@ -38,6 +38,29 @@
 
 
 
+
+
+ <release version="4.12.0-9080" date="2021-02-22">
+                <description>
+                <p>Improvements:</p>
+                    <ul>
+                        <li>We redesigned the sidebar in Avocode project manager to make it contextual and consistent.</li>
+                    </ul>
+                    <p>New features:</p>
+                    <ul>
+                        <li>We released the new Comment tool to all Avocode users. You can now see multiple artboards on your canvas, rearrange them, generate comment links, tag team members, and filter comments by type.</li>
+                        <li>You can now upload custom covers to your projects and folders in Avocode. We hope this feature will make it seamless to recognize your projects and quickly navigate around them.</li>
+                    </ul>
+                    <p>Announcement:</p>
+                      <ul>
+                        <li>We temporarily discontinued the support of Avocode Write and Flow tools to focus more on the core Avocode functionality.</li>
+                    </ul>
+            </description>
+     </release>    
+
+
+
+
  <release version="4.11.0-8956" date="2020-12-15">
                 <description>
                 <p>Improvements:</p>
