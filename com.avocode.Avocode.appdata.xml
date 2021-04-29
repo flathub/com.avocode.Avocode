@@ -40,6 +40,22 @@
 
 
 
+ <release version="4.13.2-9218" date="2021-04-26">
+                <description>
+               
+                    <p>New features:</p>
+                    <ul>
+                        <li>You can now log in to Avocode by linking your Google account. It's secure and convenient.</li>
+                    </ul>
+                  
+            </description>
+     </release>    
+
+
+
+
+
+
  <release version="4.12.0-9080" date="2021-02-22">
                 <description>
                 <p>Improvements:</p>
