@@ -40,6 +40,31 @@
 
 
 
+
+ <release version="4.14.0-9272" date="2021-05-06">
+        <description>
+            <p>New features:</p>
+                <ul>
+                    <li>We've redesigned the UI and functionality of the project settings and code preferences to make it easier for you to customize them to better fit your workflow and project specifications.</li>
+                </ul>
+            <p>Improvements:</p>
+                <ul>
+                    <li>You can now quickly go back to your design from Inspect or Comment mode by clicking on the Avocode logo in the topbar.</li>
+                     <li>We've disabled the upload of single images as versions of your PSD design to make versioning in Avocode more intuitive.</li>
+                     <li>We've improved the UI of the sidebar in Avocode for guest and team member users with limited access to remove the clatter and make it more relevant.</li>
+                </ul>
+             <p>Bug fixes:</p>
+                <ul>
+                    <li>We've fixed the issue which caused text layers to overflow when designs are processed locally.</li>
+                </ul>
+        </description>
+     </release>    
+
+
+
+
+
+
  <release version="4.13.2-9218" date="2021-04-26">
                 <description>
                
