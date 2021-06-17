@@ -36,9 +36,9 @@ modules:
         only-arches:
           - x86_64
 
-        url: https://linux.avocode.com/apt/pool/main/a/avocode/avocode_4.14.0-9272_amd64.deb
-        sha256: 1e5c14ee4f9b89bdd565cdcaca24ccef18171255af3375b8bc3864184a3c29a5
-        size: 84458680
+        url: https://linux.avocode.com/apt/pool/main/a/avocode/avocode_4.14.3-9376_amd64.deb
+        sha256: 5b6c5fe50af57fc003f093e3717aff998997be38d5faffc3cad01ab50c0bb4d7
+        size: 91885714
 
         x-checker-data:
           type: debian-repo
