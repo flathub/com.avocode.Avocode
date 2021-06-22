@@ -41,10 +41,16 @@
 
 
 
- <release version="4.14.3-9376" date="2021-06-17"/>
 
 
-
+ <release version="4.14.3-9376" date="2021-06-17">
+        <description>
+             <p>Bug fixes:</p>
+                <ul>
+                    <li>We’ve fixed a rendering issue that caused some shapes’ corners to display incorrect radius values.</li>
+                </ul>
+        </description>
+     </release>    
 
 
 
