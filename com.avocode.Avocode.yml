@@ -1,9 +1,9 @@
 id: com.avocode.Avocode
 sdk: org.freedesktop.Sdk
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '22.08'
 base: org.electronjs.Electron2.BaseApp
-base-version: '21.08'
+base-version: '22.08'
 finish-args:
   - --share=ipc
   - --socket=x11
