@@ -1,5 +1,6 @@
  { 
   "publish-delay-hours": 1,
   "skip-icons-check": true,
-  "only-arches": [ "x86_64" ]
+  "only-arches": [ "x86_64" ],
+  "end-of-life": "The application is ending its work as avocode has stopped working since October 1, 2023"
  }
